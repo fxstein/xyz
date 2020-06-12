@@ -1,11 +1,9 @@
 ---
-layout: page
+layout: post
 title: "A new beginning"
 date: 2020-06-10 23:30:00 -0700
-categories: Site
+categories: site
 ---
-
-## A new begining
 
 Almost 2 decades ago in the early days of the web, setting up a site like this took considerable effort and resources. 
 Ultimately the like of Wordpress, Joomla and Drupal were used as platforms for self hosted sites like this. Some of you 
