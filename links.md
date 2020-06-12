@@ -14,3 +14,6 @@ in the cloud on github
 * A guide to setup and configure jekyll for github pages. A lot of this without the local stuff.
 I ran everything from the web, the ipad or my macbook, but always from withint a browser or app.
 https://ndench.github.io/jekyll/setup-jekyll-on-github-pages
+
+* A how-to add an edit button to pages on a github pages site or blog
+https://github.com/jekyll/jekyll-help/issues/5
