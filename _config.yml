@@ -13,6 +13,9 @@ show_excerpts: true # set to true to show excerpts on the homepage
 minima:
   date_format: "%b %-d, %Y"
 
+  # dark skin by default
+  skin: dark
+  
   # generate social links in footer
   social_links:
     twitter: fxstein
