@@ -1,4 +1,8 @@
-## fxstein.xyz
+---
+layout: page
+title: About
+permalink: /about/
+---
 
 This site is maintained by fxstein. An opensource enthusiats and avid builder and maker.
 
